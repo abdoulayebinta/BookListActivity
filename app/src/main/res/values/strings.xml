@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">BookListActivity</string>
     <string name="error_data_message">Error Loading data from the Google Books API</string>
+    <string name="search">Search</string>
 </resources>
